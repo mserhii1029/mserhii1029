@@ -1,5 +1,4 @@
 <h1 align="left" id="mserhii1029-title">:wave: Hello there! I'm Serhii Muzyka</h1>
-<h3 align="left">I am a Senior Software Engineer</h3>
 
 I'm an individual and a full-stack developer who has experience over 6 years of freelancing into a full-time career.
 
